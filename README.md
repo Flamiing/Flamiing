@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Amir (“Flamiing”)**  
-### 🧑‍💻 Software Engineer | Backend-Focused
+### 🧑‍💻 Software Engineer @ IBM
 
 ---
 
