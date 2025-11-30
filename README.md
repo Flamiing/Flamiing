@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 
-I’m a **backend-focused Software Engineer** with a strong foundation in **systems programming (C)** from the 42 School curriculum, complemented by experience in **Java, Python, JavaScript, C++ and PHP**.  
-I love building clean, reliable, well-structured software — whether it’s low-level logic, backend services, or containerized deployments.
+I’m a backend-focused Software Engineer passionate about programming and constantly improving my craft, with experience in Java, Python, JavaScript, C++ and PHP.
+I love building clean, reliable, well-structured software — whether it’s backend services, low-level logic, or containerized deployments.
 
-I like building robust backend systems and understanding the logic behind them, while also applying modern development practices and clean engineering principles.
+I enjoy designing robust backend systems, understanding the logic behind them, and applying modern development practices and clean code principles.
 
 ---
 
